@@ -8,7 +8,7 @@ We assume that your `.ember-cli` has `"usePods": true`.
 
 ## Installation
 
-* `ember install ember-cli-component-pod`
+* `ember install ember-cli-component-pod-lab`
 
 ## Generate component
 
@@ -21,5 +21,3 @@ The comment headers support `yuidoc` tags:
 
 * `@module` -- your app name
 * `@submodule` -- name of the component.
-
-
